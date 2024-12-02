@@ -26,6 +26,7 @@
         <EnablePreviewMsixTooling>true</EnablePreviewMsixTooling>
         <LangVersion>12</LangVersion>
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <EnableWindowsTargeting>true</EnableWindowsTargeting>
     </PropertyGroup>
     
     <PropertyGroup Condition="'$(Configuration)'=='Debug'">
